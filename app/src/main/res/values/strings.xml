@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Stormy</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_title">Oops! Sorry!</string>
+    <string name="error_body">There was an error!</string>
+    <string name="Positive_button">OK</string>
+    <string name="Network_unavailable">Network is not available</string>
+    <string name="title_activity_daily_forecast">DailyForecastActivity</string>
+    <string name="no_daily_forecast_data">THERE IS NO DATA TO DISPLAY</string>
+    <string name="DailyForecastKey">DAILY_FORECAST</string>
+    <string name="title_activity_hourly_forecast">Hourly Forecast</string>
+    <string name="HourlyForecast">HOURLY_FORECAST</string>
+    <string name="CURRENT_LOCATION">CurrentLocation</string>
+</resources>
